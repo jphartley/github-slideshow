@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+To believe is to give up hope!
 Use the left arrow to go back!
